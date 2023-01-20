@@ -1,5 +1,5 @@
 //your code here
 function swapTheme(){
 	 var element = document.body;
-        element.classList.toggle("night");
+        element.classList.toggle("button_night");
 }
